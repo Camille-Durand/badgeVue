@@ -35,3 +35,12 @@ background-color: #7ae088;
 color: white;
 }
 </style>
+
+<style scoped>
+h1{
+  font-family:impact;
+}
+h2{
+  font-family:impact;
+}
+</style>

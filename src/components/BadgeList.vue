@@ -28,3 +28,12 @@ li {
 margin-right: 1rem;
 }
 </style>
+
+<style scoped>
+h1{
+  font-family:impact;
+}
+h2{
+  font-family:impact;
+}
+</style>

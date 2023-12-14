@@ -34,7 +34,10 @@
   </script>
   
   <style scoped>
-  html{
+  h1{
+    font-family:impact;
+  }
+  h2{
     font-family:impact;
   }
   </style>

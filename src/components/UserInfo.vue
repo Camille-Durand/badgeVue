@@ -29,3 +29,12 @@ justify-content: space-between;
 align-items: center;
 }
 </style>
+
+<style scoped>
+h1{
+  font-family:impact;
+}
+h2{
+  font-family:impact;
+}
+</style>
