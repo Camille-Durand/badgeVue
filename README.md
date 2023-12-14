@@ -1,4 +1,4 @@
-# cours-vue-cli
+# cours-vue-badge
 
 ## Project setup
 ```

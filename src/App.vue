@@ -1,4 +1,4 @@
-<template>
+p<template>
   <div>
     <le-header></le-header>
     <badge-list></badge-list>
