@@ -1,1 +1,1 @@
-<img width="706" alt="1 1" src="https://github.com/Camille-Durand/badgeVue/assets/75265358/30054f9d-cf3c-47e3-8a1d-030462876edc">
+<img width="851" alt="2 1" src="https://github.com/Camille-Durand/badgeVue/assets/75265358/5416a910-6032-49cf-a380-34ccae1b4376">
