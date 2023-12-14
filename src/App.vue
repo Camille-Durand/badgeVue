@@ -1,4 +1,4 @@
-p<template>
+<template>
   <div>
     <le-header></le-header>
     <badge-list></badge-list>
@@ -11,7 +11,11 @@ p<template>
 </template>
 
 <script>
+import LeHeader from './components/LeHeader.vue';
 export default {
+    components: {
+        'le-header': LeHeader
+    },
   data() {
     return {
       activeUser: {
